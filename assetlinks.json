@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fbdownloader.videohd",
+    "sha256_cert_fingerprints":
+    ["4A:FF:77:4D:BD:70:66:8F:61:3E:93:95:37:A1:51:E1:54:87:DF:BF:BD:30:ED:C5:52:EF:1E:68:55:C6:CC:63"]
+  }
+}]
